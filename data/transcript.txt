@@ -1,0 +1,3 @@
+frame_0001.jpg: a metal object with a red and black flame 
+frame_0002.jpg: a fire hydrant with a lot of smoke coming out of it 
+frame_0003.jpg: a fire pit with a lot of food inside of it 

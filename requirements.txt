@@ -1,0 +1,6 @@
+openai-whisper
+opencv-python
+python-pptx
+ffmpeg-python
+transformers
+pillow
